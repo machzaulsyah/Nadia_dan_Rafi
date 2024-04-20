@@ -393,7 +393,7 @@
   
   /* Media Query */
   /* Extra large */
-  @media (max-width: 2000px) {
+  @media (max-width: 1920px) {
     .home .heart {
       transform: translateX(-50%) translateY(45px);
     }
